@@ -1,7 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import { Album } from "./views/album";
+import { Album } from "./views/Album";
 //import { TextField } from "./components/TextField";
 
 const App: React.FC = () => {
